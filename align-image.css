@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: ;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.image1{
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+  
+}
+.image2{
+ height: 400px;
+ width: 500px;
+ object-fit: cover;
+
+
+}
+.image3{
+ height: 500px;
+ width: 500px;
+object-fit: cover;
+}
