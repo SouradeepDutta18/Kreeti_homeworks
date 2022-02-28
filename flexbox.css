@@ -20,9 +20,9 @@ body{
 .header{
     width: 100%;
     flex: 0.2;
-    height: 40px;
+  
     background: red;
-    /* margin-bottom: 10px; */
+ 
 }
 .small_box{
     width: 32%;
